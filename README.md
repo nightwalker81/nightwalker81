@@ -23,7 +23,7 @@ This hybrid background allows me to design **data systems that are powerful AND 
 - **Streaming Concepts:** Kafka / Redpanda  
 - **Docker** (containerization & deployment basics)  
 - **API exposure** for ML & analytics workloads  
-- **Cloud architecture modeling** (Project 9)  
+- **Cloud architecture modeling** 
 - **Testing** with pytest  
 
 ### 🤖 AI, Machine Learning & NLP  
