@@ -1,14 +1,14 @@
 ## Hi there 👋
  
-### Data Engineer transitioning from Learning & Development | Passionate about AI, NLP & ML Engineering
+### Data enthusiast from Learning & Development | Passionate about AI, NLP & ML Engineering
 
 Welcome to my GitHub portfolio!  
-I am a former **Learning & Development Manager (L&D)** with a Master's in HR, now fully transitioning into **Data Engineering and AI**.  
+I am a  **Learning Manager ** with a Master's in HR**.  
 I bring a unique blend of:
 
 - ⭐ Strong communication & stakeholder management  
 - ⭐ Deep understanding of business processes & user needs  
-- ⭐ Technical expertise in data engineering, automation & AI  
+- ⭐ Technical expertise in data analytics, automation & AI  
 
 This hybrid background allows me to design **data systems that are powerful AND human-centered**, especially in NLP and RAG applications.
 
