@@ -59,19 +59,12 @@ I am particularly interested in using data to solve real business problems and i
 ---
 
 ## 🎯 What makes my profile unique
-I combine **people skills from HR/L&D** with **technical data engineering skills**:
+I combine **people skills from HR/L&D** with **technical data science and data engineering skills**:
 
 - I translate business needs into clear technical requirements  
 - I communicate effectively with technical & non-technical teams  
 - I design solutions that consider **usability, user experience & organizational impact**  
 - I manage complex projects with structure, clarity, and empathy  
-
-This makes me particularly effective in roles such as:
-- Data Engineer  
-- AI / NLP Engineer  
-- Analytics Engineer  
-- Data Product roles  
-- ML Engineering (future goal)  
 
 ---
 
