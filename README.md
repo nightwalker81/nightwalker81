@@ -1,16 +1,27 @@
 ## Hi there 👋
  
-### Data enthusiast from Learning & Development | Passionate about AI, NLP & ML Engineering
+### Learning & Development | Learning Analytics | Data & AI
+Welcome to my GitHub portfolio!
 
-Welcome to my GitHub portfolio!  
-I am a  **Learning Manager ** with a Master's in HR**.  
-I bring a unique blend of:
+I am an International Learning Manager with a Master's in Human Resources Management, combining more than 10 years of experience in Learning & Development with an increasingly technical background in Data Engineering and Data Science.
 
-- ⭐ Strong communication & stakeholder management  
-- ⭐ Deep understanding of business processes & user needs  
-- ⭐ Technical expertise in data analytics, automation & AI  
+Alongside my professional career, I completed the Data Engineer pathway at OpenClassrooms and I am currently pursuing graduate-level studies in Data Science at the University of Colorado Boulder.
 
-This hybrid background allows me to design **data systems that are powerful AND human-centered**, especially in NLP and RAG applications.
+My profile brings together:
+
+⭐ International Learning & Development and digital learning
+
+⭐ Data Engineering, analytics and data pipelines
+
+⭐ Python, SQL, R, Power BI and Snowflake
+
+⭐ Statistics, algorithms and machine learning
+
+⭐ Strong business understanding and stakeholder management
+
+My projects reflect this combination, from data collection, transformation and visualization to statistical analysis and machine learning.
+
+I am particularly interested in using data to solve real business problems and in bringing stronger data and analytics capabilities into Learning, Talent and HR environments.
 
 ## 🔧 Technical Skills
 
