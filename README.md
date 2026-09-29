@@ -59,7 +59,7 @@ I am particularly interested in using data to solve real business problems and i
 ---
 
 ## 🎯 What makes my profile unique
-I combine **people skills from HR/L&D** with strong **technical engineering skills**:
+I combine **people skills from HR/L&D** with **technical data engineering skills**:
 
 - I translate business needs into clear technical requirements  
 - I communicate effectively with technical & non-technical teams  
